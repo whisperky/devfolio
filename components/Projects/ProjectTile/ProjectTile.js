@@ -25,10 +25,9 @@ const ProjectTile = ({ project, classes, isDesktop }) => {
 
   return (
     <a
-      href={url}
+      href="#"
       className={`overflow-hidden rounded-3xl ${additionalClasses}`}
       ref={projectCard}
-      target="_blank"
       rel="noreferrer"
       style={{
         maxWidth: isDesktop ? "calc(100vw - 2rem)" : "calc(100vw - 4rem)",

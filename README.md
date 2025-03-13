@@ -1,9 +1,5 @@
 # devfolio
 
-<a href="https://shubhporwal.me">
-  <img alt="devfolio" src="./public/preview.png" />
-</a>
-
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
   <a href="#" target="_blank">
@@ -13,8 +9,6 @@
 </p>
 
 👨‍🎓 An eye-catching developer Portfolio, Built on NextJS, GSAP, Tailwind and React
-
-### ✨ [Live Demo](http://www.shubhporwal.me/)
 
 ## Getting Started
 

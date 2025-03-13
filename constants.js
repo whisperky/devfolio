@@ -1,12 +1,12 @@
 export const METADATA = {
-  author: "Shubh Porwal",
-  title: "Portfolio | Shubh Porwal",
+  author: "Charalampos Sakellariou",
+  title: "Portfolio | Charalampos Sakellariou",
   description:
-    "Shubh Porwal is a passionate Frontend Engineer, dedicated to crafting aesthetic and modern apps that captivate and engage users.",
-  siteUrl: "https://www.shubhporwal.me/",
-  twitterHandle: "@shubhporwal24",
+    "Charalampos Sakellariou is a passionate Frontend Engineer, dedicated to crafting aesthetic and modern apps that captivate and engage users.",
+  siteUrl: "https://www.charalampos.me/",
+  twitterHandle: "@charalampos_sakellariou",
   keywords: [
-    "Shubh Porwal",
+    "Charalampos Sakellariou",
     "Frontend Engineer",
     "React Native Developer",
     "Software Engineer",
@@ -52,23 +52,15 @@ export const TYPED_STRINGS = [
 export const SOCIAL_LINKS = [
   {
     name: "mail",
-    url: "mailto: shubhporwal73@gmail.com",
+    url: "mailto: xaris.space0510@gmail.com",
   },
   {
     name: "linkedin",
-    url: "https://www.linkedin.com/in/shubhporwal/",
+    url: "https://www.linkedin.com/in/xaris-me/",
   },
   {
     name: "github",
-    url: "https://github.com/shubh73",
-  },
-  {
-    name: "instagram",
-    url: "https://www.instagram.com/shubhii73/",
-  },
-  {
-    name: "twitter",
-    url: "https://x.com/shubhporwal24",
+    url: "https://github.com/whisperky",
   },
 ];
 
@@ -106,7 +98,7 @@ export const PROJECTS = [
     blurImage: "/projects/blur/airbnb-blur.webp",
     description: "Airbnb UI clone using NextJS + Tailwind CSS 🛏️",
     gradient: ["#F14658", "#DC2537"],
-    url: "https://shubh73-airbnb.vercel.app/",
+    url: "",
     tech: ["react", "nextjs", "tailwindcss", "mapbox"],
   },
   {
@@ -115,7 +107,7 @@ export const PROJECTS = [
     blurImage: "/projects/blur/medium-blur.webp",
     description: "Medium UI clone using NextJS + Tailwind CSS ✍🏻",
     gradient: ["#FFA62E", "#EA4D2C"],
-    url: "https://shubh73-medium.vercel.app/",
+    url: "",
     tech: ["typescript", "react", "nextjs", "tailwindcss", "sanity.io"],
   },
   {
@@ -125,7 +117,7 @@ export const PROJECTS = [
     description:
       "Conversational Voice Controlled React News Application using Alan AI 🎙",
     gradient: ["#000066", "#6699FF"],
-    url: "https://shubh73-inshorts.netlify.app/",
+    url: "",
     tech: ["react", "chakra-ui", "alan"],
   },
   {
@@ -134,7 +126,7 @@ export const PROJECTS = [
     blurImage: "/projects/blur/tesla-blur.webp",
     description: "A Tesla React Native App 🏎️",
     gradient: ["#142D46", "#2E4964"],
-    url: "https://github.com/shubh73/tesla",
+    url: "https://github.com/whisperky",
     tech: ["react"],
   },
 ];
